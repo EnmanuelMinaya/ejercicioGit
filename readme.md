@@ -1,8 +1,8 @@
 # Ejercicio Git
 
-- [ ]Crear repositorio Local
+- [x]Crear repositorio Local
 - [x]Agregar archivos
-- [ ]Crear repositorio remoto (Github) (en la pagina)
-- [ ]Enlazar local con remoto
-- [ ]Commit y Push
-- [ ]Fetch y Pull
+- [x]Crear repositorio remoto (Github) (en la pagina)
+- [x]Enlazar local con remoto
+- [x]Commit y Push
+- [x]Fetch y Pull
